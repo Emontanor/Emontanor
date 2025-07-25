@@ -3,12 +3,12 @@
 
 Systems Engineering student at UNAL
 
-## Tecnologias Conocidas 
+## Acknowledgements
 
- - Lenguajes: Java, python, javascript, SQL, typescript
+ - Languages: Java, python, javascript, SQL, typescript
  - Backend: Node
  - Frontend: React, CSS
- - Otros: Nest, Electron, Git
+ - Others: Nest, Electron, Git
 
-Contacto: fhernandezm@unal.edu.co 
+Contact: fhernandezm@unal.edu.co 
 
