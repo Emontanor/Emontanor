@@ -5,7 +5,8 @@ Systems Engineering student at UNAL
 
 ## Acknowledgements
 
- - Languages: Java, python, javascript, SQL, typescript
+ - Languages: Java, python, javascript, typescript
+ - Data Base: SQL, MongoDb
  - Backend: Node
  - Frontend: React, CSS
  - Others: Nest, Electron, Git
